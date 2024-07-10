@@ -1,3 +1,5 @@
+**XRay has been reimplemented in Rust and expanded with more features, this repository is LEGACY code. Use https://github.com/evilsocket/legba**
+
 # XRAY
 
 XRay is a tool for network OSINT gathering, its goal is to make some of the initial tasks of information gathering and network mapping automatic.
